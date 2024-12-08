@@ -1,0 +1,1445 @@
+
+Warning: Undefined variable $results in C:\Users\elija\OneDrive\Desktop\Programs\web_crawler\index.php on line 124
+{
+    "Title": "YouTube",
+    "Description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+    "Keywords": "video, sharing, camera phone, video phone, free, upload",
+    "URL": "https://youtube.com"
+}
+{
+    "Title": "Google",
+    "Description": "Search the world's information, including webpages, images, videos and more. Google has many special features to help you find exactly what you're looking for.",
+    "Keywords": "No keywords found",
+    "URL": "https://www.google.com/"
+}
+Failed to fetch content for URL: https://reddit.com
+{
+    "Title": "Google",
+    "Description": "Search the world's information, including webpages, images, videos and more. Google has many special features to help you find exactly what you're looking for.",
+    "Keywords": "No keywords found",
+    "URL": "https://www.google.com/webhp?tab=ww"
+}
+{
+    "Title": "Google Images",
+    "Description": "Google Images. The most comprehensive image search on the web.",
+    "Keywords": "No keywords found",
+    "URL": "https://www.google.com/imghp?hl=en&tab=wi"
+}
+{
+    "Title": "  Google Maps  ",
+    "Description": " Find local businesses, view maps and get driving directions in Google Maps. ",
+    "Keywords": "No keywords found",
+    "URL": "https://maps.google.com/maps?hl=en&tab=wl"
+}
+{
+    "Title": "Android Apps on Google Play",
+    "Description": "Enjoy millions of the latest Android apps, games, music, movies, TV, books, magazines & more. Anytime, anywhere, across your devices.",
+    "Keywords": "No keywords found",
+    "URL": "https://play.google.com/?hl=en&tab=w8"
+}
+{
+    "Title": "YouTube",
+    "Description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+    "Keywords": "video, sharing, camera phone, video phone, free, upload",
+    "URL": "https://www.youtube.com/?tab=w1"
+}
+{
+    "Title": "Google News",
+    "Description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+    "Keywords": "No keywords found",
+    "URL": "https://news.google.com/?tab=wn"
+}
+{
+    "Title": "Gmail",
+    "Description": "Gmail is email that\u2019s intuitive, efficient, and useful. 15 GB of storage, less spam, and mobile access.",
+    "Keywords": "No keywords found",
+    "URL": "https://mail.google.com/mail/?tab=wm"
+}
+{
+    "Title": "Google Drive: Sign-in",
+    "Description": "Access Google Drive with a Google account (for personal use) or Google Workspace account (for business use).",
+    "Keywords": "No keywords found",
+    "URL": "https://drive.google.com/?tab=wo"
+}
+{
+    "Title": "Browse All of Google's Products & Services - Google",
+    "Description": "Browse a list of Google products designed to help you work and play, stay organized, get answers, keep in touch, grow your business, and more.",
+    "Keywords": "No keywords found",
+    "URL": "https://www.google.com/intl/en/about/products?tab=wh"
+}
+{
+    "Title": "Google Calendar - Sign in to Access & Edit Your Schedule",
+    "Description": "Access Google Calendar with a Google account (for personal use) or Google Workspace account (for business use).",
+    "Keywords": "No keywords found",
+    "URL": "https://calendar.google.com/calendar?tab=wc"
+}
+{
+    "Title": "Google Translate",
+    "Description": "Google's service, offered free of charge, instantly translates words, phrases, and web pages between English and over 100 other languages.",
+    "Keywords": "translate, translations, translation, translator, machine translation, online translation",
+    "URL": "https://translate.google.com/?hl=en&tab=wT"
+}
+Failed to fetch content for URL: http://www.google.com/mobile/?hl=en&tab=wD
+{
+    "Title": "Google Books",
+    "Description": "No description found",
+    "Keywords": "No keywords found",
+    "URL": "https://books.google.com/?hl=en&tab=wp"
+}
+{
+    "Title": "Google Shopping - Shop Online, Compare Prices & Where to Buy",
+    "Description": "Browse Google Shopping to find the products you\u00e2\u0080\u0099re looking for, track & compare prices, and decide where to buy online or in store.",
+    "Keywords": "No keywords found",
+    "URL": "https://www.google.com/shopping?hl=en&source=og&tab=wf"
+}
+{
+    "Title": "Blogger.com - Create a unique and beautiful blog easily.",
+    "Description": "Publish your passions your way. Whether you\u2019d like to share your knowledge, experiences or the latest news, create a unique and beautiful blog.",
+    "Keywords": "No keywords found",
+    "URL": "https://www.blogger.com/?tab=wj"
+}
+{
+    "Title": "Google Finance - Stock Market Prices, Real-time Quotes & Business News",
+    "Description": "Google Finance provides real-time market quotes, international exchanges, up-to-date financial news, and analytics to help you make more informed trading and investment decisions.",
+    "Keywords": "No keywords found",
+    "URL": "https://www.google.com/finance?tab=we"
+}
+{
+    "Title": "Google Photos: Edit, Organize, Search, and Backup Your Photos",
+    "Description": "Edit and enhance photos with AI-powered features like Magic Editor and Magic Eraser on Google Photos. Store, organize & search your memories.",
+    "Keywords": "No keywords found",
+    "URL": "https://photos.google.com/?tab=wq&pageId=none"
+}
+{
+    "Title": "Google Docs: Online Document & PDF Editor | Google Workspace",
+    "Description": "Create online documents and edit PDFs with Google Docs. Collaborate in real-time from any device and use AI to generate drafts, templates, and more.",
+    "Keywords": "No keywords found",
+    "URL": "https://docs.google.com/document/?usp=docs_alc"
+}
+{
+    "Title": "Sign in - Google Accounts",
+    "Description": "",
+    "Keywords": "No keywords found",
+    "URL": "https://accounts.google.com/ServiceLogin?hl=en&passive=true&continue=https://www.google.com/&ec=GAZAAQ"
+}
+{
+    "Title": "Search settings",
+    "Description": "No description found",
+    "Keywords": "No keywords found",
+    "URL": "http://www.google.com/preferences?hl=en"
+}
+{
+    "Title": "Search settings",
+    "Description": "No description found",
+    "Keywords": "No keywords found",
+    "URL": "https://www.google.com/preferences?hl=en"
+}
+{
+    "Title": "Google - Search Customization",
+    "Description": "No description found",
+    "Keywords": "No keywords found",
+    "URL": "http://www.google.com/history/optout?hl=en"
+}
+{
+    "Title": "Google Advanced Search",
+    "Description": "No description found",
+    "Keywords": "No keywords found",
+    "URL": "https://www.google.com/advanced_search?hl=en&authuser=0"
+}
+{
+    "Title": "      Google Ads - Get Customers and Sell More with Online Advertising    ",
+    "Description": "Discover how online advertising with Google Ads can help grow your business. Get customers and sell more with our digital advertising platform.",
+    "Keywords": "No keywords found",
+    "URL": "https://www.google.com/intl/en/ads/"
+}
+{
+    "Title": "No title found",
+    "Description": "No description found",
+    "Keywords": "No keywords found",
+    "URL": "https://www.google.com/services/"
+}
+{
+    "Title": "Google - About Google, Our Culture & Company News",
+    "Description": "Stay up to date with Google company news and products. Discover stories about our culture, philosophy, and how Google technology is impacting others.",
+    "Keywords": "No keywords found",
+    "URL": "https://www.google.com/intl/en/about.html"
+}
+{
+    "Title": "",
+    "Description": "No description found",
+    "Keywords": "No keywords found",
+    "URL": "https://www.google.com/intl/en/policies/privacy/"
+}
+{
+    "Title": "",
+    "Description": "No description found",
+    "Keywords": "No keywords found",
+    "URL": "https://www.google.com/intl/en/policies/terms/"
+}
+Failed to fetch or empty content for URL: https://reddit.com
+{
+    "Title": "Sign in - Google Accounts",
+    "Description": "",
+    "Keywords": "No keywords found",
+    "URL": "https://accounts.google.com/ServiceLogin?hl=en&passive=true&continue=https://www.google.com/webhp%3Ftab%3Dww&ec=GAZAAQ"
+}
+{
+    "Title": "Google",
+    "Description": "Search the world's information, including webpages, images, videos and more. Google has many special features to help you find exactly what you're looking for.",
+    "Keywords": "No keywords found",
+    "URL": "https://www.google.com/webhp?tab=iw"
+}
+{
+    "Title": "Google Images",
+    "Description": "Google Images. The most comprehensive image search on the web.",
+    "Keywords": "No keywords found",
+    "URL": "https://www.google.com/imghp?hl=en&tab=ii"
+}
+{
+    "Title": "  Google Maps  ",
+    "Description": " Find local businesses, view maps and get driving directions in Google Maps. ",
+    "Keywords": "No keywords found",
+    "URL": "https://maps.google.com/maps?hl=en&tab=il"
+}
+{
+    "Title": "Android Apps on Google Play",
+    "Description": "Enjoy millions of the latest Android apps, games, music, movies, TV, books, magazines & more. Anytime, anywhere, across your devices.",
+    "Keywords": "No keywords found",
+    "URL": "https://play.google.com/?hl=en&tab=i8"
+}
+{
+    "Title": "YouTube",
+    "Description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+    "Keywords": "video, sharing, camera phone, video phone, free, upload",
+    "URL": "https://www.youtube.com/?tab=i1"
+}
+{
+    "Title": "Google News",
+    "Description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+    "Keywords": "No keywords found",
+    "URL": "https://news.google.com/?tab=in"
+}
+{
+    "Title": "Gmail",
+    "Description": "Gmail is email that\u2019s intuitive, efficient, and useful. 15 GB of storage, less spam, and mobile access.",
+    "Keywords": "No keywords found",
+    "URL": "https://mail.google.com/mail/?tab=im"
+}
+{
+    "Title": "Google Drive: Sign-in",
+    "Description": "Access Google Drive with a Google account (for personal use) or Google Workspace account (for business use).",
+    "Keywords": "No keywords found",
+    "URL": "https://drive.google.com/?tab=io"
+}
+{
+    "Title": "Browse All of Google's Products & Services - Google",
+    "Description": "Browse a list of Google products designed to help you work and play, stay organized, get answers, keep in touch, grow your business, and more.",
+    "Keywords": "No keywords found",
+    "URL": "https://www.google.com/intl/en/about/products?tab=ih"
+}
+{
+    "Title": "Google Calendar - Sign in to Access & Edit Your Schedule",
+    "Description": "Access Google Calendar with a Google account (for personal use) or Google Workspace account (for business use).",
+    "Keywords": "No keywords found",
+    "URL": "https://calendar.google.com/calendar?tab=ic"
+}
+{
+    "Title": "Google Translate",
+    "Description": "Google's service, offered free of charge, instantly translates words, phrases, and web pages between English and over 100 other languages.",
+    "Keywords": "translate, translations, translation, translator, machine translation, online translation",
+    "URL": "https://translate.google.com/?hl=en&tab=iT"
+}
+Failed to fetch content for URL: http://www.google.com/mobile/?hl=en&tab=iD
+{
+    "Title": "Google Books",
+    "Description": "No description found",
+    "Keywords": "No keywords found",
+    "URL": "https://books.google.com/?hl=en&tab=ip"
+}
+{
+    "Title": "Google Shopping - Shop Online, Compare Prices & Where to Buy",
+    "Description": "Browse Google Shopping to find the products you\u00e2\u0080\u0099re looking for, track & compare prices, and decide where to buy online or in store.",
+    "Keywords": "No keywords found",
+    "URL": "https://www.google.com/shopping?hl=en&source=og&tab=if"
+}
+{
+    "Title": "Blogger.com - Create a unique and beautiful blog easily.",
+    "Description": "Publish your passions your way. Whether you\u2019d like to share your knowledge, experiences or the latest news, create a unique and beautiful blog.",
+    "Keywords": "No keywords found",
+    "URL": "https://www.blogger.com/?tab=ij"
+}
+{
+    "Title": "Google Finance - Stock Market Prices, Real-time Quotes & Business News",
+    "Description": "Google Finance provides real-time market quotes, international exchanges, up-to-date financial news, and analytics to help you make more informed trading and investment decisions.",
+    "Keywords": "No keywords found",
+    "URL": "https://www.google.com/finance?tab=ie"
+}
+{
+    "Title": "Google Photos: Edit, Organize, Search, and Backup Your Photos",
+    "Description": "Edit and enhance photos with AI-powered features like Magic Editor and Magic Eraser on Google Photos. Store, organize & search your memories.",
+    "Keywords": "No keywords found",
+    "URL": "https://photos.google.com/?tab=iq&pageId=none"
+}
+{
+    "Title": "Sign in - Google Accounts",
+    "Description": "",
+    "Keywords": "No keywords found",
+    "URL": "https://accounts.google.com/ServiceLogin?hl=en&passive=true&continue=https://www.google.com/imghp%3Fhl%3Den%26tab%3Dwi&ec=GAZAAg"
+}
+{
+    "Title": "Google Advanced Image Search",
+    "Description": "No description found",
+    "Keywords": "No keywords found",
+    "URL": "https://www.google.com/advanced_image_search?hl=en&authuser=0"
+}
+{
+    "Title": "Enable JavaScript to see Google Maps - Google Maps Help",
+    "Description": "To use Google Maps, you need to turn on JavaScript in your browser, like Chrome or Firefox. If you don\u00e2\u0080\u0099t have JavaScript turned on, you\u00e2\u0080\u0099ll see an empty page when you go to Google Maps. To enable Java",
+    "Keywords": "No keywords found",
+    "URL": "https://support.google.com/maps/?hl=en&authuser=0&p=no_javascript"
+}
+{
+    "Title": "Android Apps on Google Play",
+    "Description": "Enjoy millions of the latest Android apps, games, music, movies, TV, books, magazines & more. Anytime, anywhere, across your devices.",
+    "Keywords": "No keywords found",
+    "URL": "https://play.google.com/store/games"
+}
+{
+    "Title": "Android Apps on Google Play",
+    "Description": "Enjoy millions of the latest Android apps, games, music, movies, TV, books, magazines & more. Anytime, anywhere, across your devices.",
+    "Keywords": "No keywords found",
+    "URL": "https://play.google.com/store/apps"
+}
+{
+    "Title": "Movies - Movies & TV on Google Play",
+    "Description": "Enjoy millions of the latest Android apps, games, music, movies, TV, books, magazines & more. Anytime, anywhere, across your devices.",
+    "Keywords": "No keywords found",
+    "URL": "https://play.google.com/store/movies"
+}
+{
+    "Title": "Books on Google Play",
+    "Description": "Discover ebooks, audiobooks, manga, and comics! Explore best sellers, romance, sci-fi, thrillers, self-help, business titles, and more from Google Play Books.",
+    "Keywords": "No keywords found",
+    "URL": "https://play.google.com/store/books"
+}
+{
+    "Title": "Kids - Android Apps on Google Play",
+    "Description": "Enjoy millions of the latest Android apps, games, music, movies, TV, books, magazines & more. Anytime, anywhere, across your devices.",
+    "Keywords": "No keywords found",
+    "URL": "https://play.google.com/store/apps/category/FAMILY"
+}
+{
+    "Title": "Privacy Policy \u00e2\u0080\u0093 Privacy & Terms \u00e2\u0080\u0093 Google",
+    "Description": "No description found",
+    "Keywords": "No keywords found",
+    "URL": "https://policies.google.com/privacy"
+}
+{
+    "Title": "Google Terms of Service \u00e2\u0080\u0093 Privacy & Terms \u00e2\u0080\u0093 Google",
+    "Description": "No description found",
+    "Keywords": "No keywords found",
+    "URL": "https://myaccount.google.com/termsofservice"
+}
+{
+    "Title": "Android Apps on Google Play",
+    "Description": "Enjoy millions of the latest Android apps, games, music, movies, TV, books, magazines & more. Anytime, anywhere, across your devices.",
+    "Keywords": "No keywords found",
+    "URL": "https://play.google.com/store/games?device=windows"
+}
+{
+    "Title": "Android Apps on Google Play",
+    "Description": "Enjoy millions of the latest Android apps, games, music, movies, TV, books, magazines & more. Anytime, anywhere, across your devices.",
+    "Keywords": "No keywords found",
+    "URL": "https://play.google.com/store/games?device=phone"
+}
+{
+    "Title": "Android Apps on Google Play",
+    "Description": "Enjoy millions of the latest Android apps, games, music, movies, TV, books, magazines & more. Anytime, anywhere, across your devices.",
+    "Keywords": "No keywords found",
+    "URL": "https://play.google.com/store/games?device=tablet"
+}
+{
+    "Title": "Android Apps on Google Play",
+    "Description": "Enjoy millions of the latest Android apps, games, music, movies, TV, books, magazines & more. Anytime, anywhere, across your devices.",
+    "Keywords": "No keywords found",
+    "URL": "https://play.google.com/store/games?device=tv"
+}
+{
+    "Title": "Android Apps on Google Play",
+    "Description": "Enjoy millions of the latest Android apps, games, music, movies, TV, books, magazines & more. Anytime, anywhere, across your devices.",
+    "Keywords": "No keywords found",
+    "URL": "https://play.google.com/store/games?device=chromebook"
+}
+{
+    "Title": "Android Apps on Google Play",
+    "Description": "Enjoy millions of the latest Android apps, games, music, movies, TV, books, magazines & more. Anytime, anywhere, across your devices.",
+    "Keywords": "No keywords found",
+    "URL": "https://play.google.com/store/games?device=watch"
+}
+{
+    "Title": "Join the Spearmint Snowstorm for icy rewards!",
+    "Description": "Prepare for a frosty adventure in the all-new Spearmint Snowstorm event! From Nov 15 - Dec 5, Jelly Queen, Mr. Toffee, and Nutcracker are frozen mid-race by a sudden blizzard! Free Gummi dragons at special levels to melt the ice and rescue your friends. But beware\u00e2\u0080\u0094Bubblegum Troll is lurking, holding frozen dragons hostage! Don\u00e2\u0080\u0099t miss this icy challenge! Available from level 250.",
+    "Keywords": "No keywords found",
+    "URL": "https://play.google.com/store/apps/eventdetails/4831241368897573928"
+}
+{
+    "Title": "Candy Crush Saga - Apps on Google Play",
+    "Description": "Spread jam, pop jelly, blast candies & master sugar sweet match-3 puzzle games.",
+    "Keywords": "No keywords found",
+    "URL": "https://play.google.com/store/apps/details?id=com.king.candycrushsaga"
+}
+{
+    "Title": "Chimera: unite your clan, defeat the boss, and earn rewards!",
+    "Description": "Introducing a terrifying new monster of mythical proportions - the Chimera!A result of knights revenant experiments in the stormwind wastes, the Chimera is a gargantuan creature filled with raw power. Unite your clan to take on this new boss and earn awesome rewards. Battle against the Chimera's four unique forms as they constantly rotate, and complete in-battle trials to get your hands on additional rewards. Good luck and happy raiding!",
+    "Keywords": "No keywords found",
+    "URL": "https://play.google.com/store/apps/eventdetails/4828193557580911959"
+}
+{
+    "Title": "RAID: Shadow Legends - Apps on Google Play",
+    "Description": "Masters of the Universe joins RAID: Collect He-Man and Skeletor now!",
+    "Keywords": "No keywords found",
+    "URL": "https://play.google.com/store/apps/details?id=com.plarium.raidlegends"
+}
+{
+    "Title": "Delta Force - Apps on Google Play",
+    "Description": "Delta Force is a modern team-based tactical cross-platform shooter.",
+    "Keywords": "No keywords found",
+    "URL": "https://play.google.com/store/apps/details?id=com.proxima.dfm"
+}
+{
+    "Title": "New Event! Dragon Nest!",
+    "Description": "Embark on a magical journey to raise dragons with your friends and claim the ultimate prize in Dragon Nest!",
+    "Keywords": "No keywords found",
+    "URL": "https://play.google.com/store/apps/eventdetails/4828854376348847308"
+}
+{
+    "Title": "Royal Match - Apps on Google Play",
+    "Description": "Decorate King Robert's Castle by solving puzzles along the way!",
+    "Keywords": "No keywords found",
+    "URL": "https://play.google.com/store/apps/details?id=com.dreamgames.royalmatch"
+}
+{
+    "Title": "Treat yourself to an adorable dog game",
+    "Description": "We\u00e2\u0080\u0099ve fetched some of our top picks featuring man\u00e2\u0080\u0099s best friend. From taking care of puppies at an animal hospital to running a dog hotel, these canine-themed choices will have you wagging your tail with joy.",
+    "Keywords": "No keywords found",
+    "URL": "https://play.google.com/store/apps/editorial?id=mc_editorialseasonal_puppy_games_fcp"
+}
+{
+    "Title": "Games for aspiring game developers",
+    "Description": "Imagine you never had to face the bittersweet feeling of completing the final level of a beloved game. That\u00e2\u0080\u0099s the case with these innovative platforms that encourage players to design and share their creations using built-in editing tools. Enjoy tons of user-generated levels and minigames made by fellow fans or harness your creativity to develop your own.",
+    "Keywords": "No keywords found",
+    "URL": "https://play.google.com/store/apps/editorial?id=mc_editorialevergreen_games_for_aspiring_game_developers_fcp"
+}
+{
+    "Title": "Adventures for budding heroes",
+    "Description": "If you\u00e2\u0080\u0099re feeling the itch for a new quest, dive into this assembly of adventures for would-be explorers. Lose yourself in a new world, from story-driven epics to cozy slice-of-life journeys.",
+    "Keywords": "No keywords found",
+    "URL": "https://play.google.com/store/apps/editorial?id=mc_editorialevergreen_top_k_adventure_games_fcp"
+}
+{
+    "Title": "Toca Boca World - Apps on Google Play",
+    "Description": "Create, customize & explore your Toca Boca story! Endless fun & creativity await",
+    "Keywords": "No keywords found",
+    "URL": "https://play.google.com/store/apps/details?id=com.tocaboca.tocalifeworld"
+}
+{
+    "Title": "Sonic Rumble - Apps on Google Play",
+    "Description": "RUMBLE WITH SONIC & FRIENDS",
+    "Keywords": "No keywords found",
+    "URL": "https://play.google.com/store/apps/details?id=com.sega.sonicrumble"
+}
+{
+    "Title": "Arcane returns on-screen and arrives in-game",
+    "Description": "To celebrate the highly-anticipated final season of Arcane, some of your favorite League of Legends spinoff games are bringing Jinx, Vi, and other Arcane tie-ins into the fray. Dive deeper into this epic narrative as you enjoy the stunning animation and heart-pounding twists of what\u00e2\u0080\u0099s sure to be an unforgettable series finale.",
+    "Keywords": "No keywords found",
+    "URL": "https://play.google.com/store/apps/editorial?id=mc_games_editorialmd_arcane_final_season_riot_wildrift_teamfight_game_tieins_fcp"
+}
+{
+    "Title": "EA SPORTS FC\u00e2\u0084\u00a2 Mobile Soccer - Apps on Google Play",
+    "Description": "FIFA Mobile is now EA SPORTS FC\u00e2\u0084\u00a2 Mobile! Kick off with soccer stars today.",
+    "Keywords": "No keywords found",
+    "URL": "https://play.google.com/store/apps/details?id=com.ea.gp.fifamobile"
+}
+{
+    "Title": "The best games of 2024",
+    "Description": "Our top games this year have shown us the importance of community and what we can accomplish when we come together through play. Whether it\u00e2\u0080\u0099s teaming up to defeat giant bosses or competing across playful obstacle courses and massive maps, we\u00e2\u0080\u0099ve had hours of fun immersed in other worlds. Here are Play\u00e2\u0080\u0099s best games of 2024.",
+    "Keywords": "No keywords found",
+    "URL": "https://play.google.com/store/apps/editorial?id=mc_bestof2024_games_fcp"
+}
+{
+    "Title": "Roblox - Apps on Google Play",
+    "Description": "Your next adventure awaits.",
+    "Keywords": "No keywords found",
+    "URL": "https://play.google.com/store/apps/details?id=com.roblox.client"
+}
+{
+    "Title": "Subway Surfers - Apps on Google Play",
+    "Description": "Help Jake, Tricky & Fresh escape from the grumpy Inspector and his dog!",
+    "Keywords": "No keywords found",
+    "URL": "https://play.google.com/store/apps/details?id=com.kiloo.subwaysurf"
+}
+{
+    "Title": "Free Fire: Winterlands - Apps on Google Play",
+    "Description": "10-minute Survival Shooter!",
+    "Keywords": "No keywords found",
+    "URL": "https://play.google.com/store/apps/details?id=com.dts.freefireth"
+}
+{
+    "Title": "Call of Duty: Mobile Season 10 - Apps on Google Play",
+    "Description": "Fun, Battle Royale & Multiplayer FPS Action!",
+    "Keywords": "No keywords found",
+    "URL": "https://play.google.com/store/apps/details?id=com.activision.callofduty.shooter"
+}
+{
+    "Title": "8 Ball Pool - Apps on Google Play",
+    "Description": "Play online multiplayer or PvP Pool games and compete with your friends!",
+    "Keywords": "No keywords found",
+    "URL": "https://play.google.com/store/apps/details?id=com.miniclip.eightballpool"
+}
+{
+    "Title": "Among Us - Apps on Google Play",
+    "Description": "Join your crewmates in a multiplayer game of teamwork and betrayal!",
+    "Keywords": "No keywords found",
+    "URL": "https://play.google.com/store/apps/details?id=com.innersloth.spacemafia"
+}
+{
+    "Title": "Geometry Dash Lite - Apps on Google Play",
+    "Description": "Jump and fly your way through danger in this rythm-based action platformer!",
+    "Keywords": "No keywords found",
+    "URL": "https://play.google.com/store/apps/details?id=com.robtopx.geometryjumplite"
+}
+{
+    "Title": "Magic Tiles 3 - Apps on Google Play",
+    "Description": "Love music games? Tap magic tiles in this fun, no-wifi game and enjoy the beat",
+    "Keywords": "No keywords found",
+    "URL": "https://play.google.com/store/apps/details?id=com.youmusic.magictiles"
+}
+{
+    "Title": "Brawl Stars - Apps on Google Play",
+    "Description": "Action-packed battle royals! Team up with friends in epic 3v3 and 5v5 games.",
+    "Keywords": "No keywords found",
+    "URL": "https://play.google.com/store/apps/details?id=com.supercell.brawlstars"
+}
+{
+    "Title": "Pok\u00c3\u00a9mon GO - Apps on Google Play",
+    "Description": "Discover Pok\u00c3\u00a9mon worldwide",
+    "Keywords": "No keywords found",
+    "URL": "https://play.google.com/store/apps/details?id=com.nianticlabs.pokemongo"
+}
+{
+    "Title": "PUBG MOBILE - Apps on Google Play",
+    "Description": "Choice of Over 1 Billion Players! Ultimate Battle Royale On Mobile\u00ef\u00bc\u0081",
+    "Keywords": "No keywords found",
+    "URL": "https://play.google.com/store/apps/details?id=com.tencent.ig"
+}
+{
+    "Title": "Whiteout Survival - Apps on Google Play",
+    "Description": "Idle, strategy, survival\u00e2\u0080\u0094experience all three upon the frozen wastes!",
+    "Keywords": "No keywords found",
+    "URL": "https://play.google.com/store/apps/details?id=com.gof.global"
+}
+{
+    "Title": "Mob Control - Apps on Google Play",
+    "Description": "Join Mob Control & Transformers: Grow your army and lead your mobs to victory",
+    "Keywords": "No keywords found",
+    "URL": "https://play.google.com/store/apps/details?id=com.vincentb.MobControl"
+}
+{
+    "Title": "Dice Dreams\u00e2\u0084\u00a2\u00ef\u00b8\u008f - Apps on Google Play",
+    "Description": "Roll the Dice and Build Your Kingdom - Can You Beat Your Friends?",
+    "Keywords": "No keywords found",
+    "URL": "https://play.google.com/store/apps/details?id=com.superplaystudios.dicedreams"
+}
+{
+    "Title": "Happy Color\u00c2\u00ae: Coloring Book - Apps on Google Play",
+    "Description": "Coloring art game for adults: paint by number on varied digital art templates",
+    "Keywords": "No keywords found",
+    "URL": "https://play.google.com/store/apps/details?id=com.pixel.art.coloring.color.number"
+}
+{
+    "Title": "Wordscapes - Apps on Google Play",
+    "Description": "Relax your brain with this fun word puzzle game and beautiful landscapes!",
+    "Keywords": "No keywords found",
+    "URL": "https://play.google.com/store/apps/details?id=com.peoplefun.wordcross"
+}
+{
+    "Title": "Stumble Guys - Apps on Google Play",
+    "Description": "Fun knockout battle royale, play with your friends!",
+    "Keywords": "No keywords found",
+    "URL": "https://play.google.com/store/apps/details?id=com.kitkagames.fallbuddies"
+}
+{
+    "Title": "Clash of Clans - Apps on Google Play",
+    "Description": "Epic combat strategy game. Build your village, train your troops & go to battle!",
+    "Keywords": "No keywords found",
+    "URL": "https://play.google.com/store/apps/details?id=com.supercell.clashofclans"
+}
+{
+    "Title": "Angry Birds 2 - Apps on Google Play",
+    "Description": "Play the Angry Birds game enjoyed by millions of players every day!",
+    "Keywords": "No keywords found",
+    "URL": "https://play.google.com/store/apps/details?id=com.rovio.baba"
+}
+{
+    "Title": "Free Fire MAX - Apps on Google Play",
+    "Description": "MAX Battle Royale Experience",
+    "Keywords": "No keywords found",
+    "URL": "https://play.google.com/store/apps/details?id=com.dts.freefiremax"
+}
+{
+    "Title": "Township - Apps on Google Play",
+    "Description": "Farm, build, and beat match-3 levels \u00e2\u0080\u0093 a simulation game for the whole family!",
+    "Keywords": "No keywords found",
+    "URL": "https://play.google.com/store/apps/details?id=com.playrix.township"
+}
+{
+    "Title": "Klondike Adventures: Farm Game - Apps on Google Play",
+    "Description": "Farming games: Harvest crops and Grow your own farm",
+    "Keywords": "No keywords found",
+    "URL": "https://play.google.com/store/apps/details?id=com.vizorapps.klondike"
+}
+{
+    "Title": "Evony: The King's Return - Apps on Google Play",
+    "Description": "Move and Shoot! Build Your Empire, Explore Difference In Evony Now!",
+    "Keywords": "No keywords found",
+    "URL": "https://play.google.com/store/apps/details?id=com.topgamesinc.evony"
+}
+{
+    "Title": "DRAGON BALL LEGENDS - Apps on Google Play",
+    "Description": "Summon your favorite DRAGON BALL characters for battle in this anime action game",
+    "Keywords": "No keywords found",
+    "URL": "https://play.google.com/store/apps/details?id=com.bandainamcoent.dblegends_ww"
+}
+{
+    "Title": "Clash Royale - Apps on Google Play",
+    "Description": "Clash Royale is a real-time, head-to-head battle game set in the Clash Universe.",
+    "Keywords": "No keywords found",
+    "URL": "https://play.google.com/store/apps/details?id=com.supercell.clashroyale"
+}
+{
+    "Title": "Lords Mobile: Kingdom Wars - Apps on Google Play",
+    "Description": "Wage MMORPG battles in this strategy game! Conquer kingdoms to build an empire!",
+    "Keywords": "No keywords found",
+    "URL": "https://play.google.com/store/apps/details?id=com.igg.android.lordsmobile"
+}
+{
+    "Title": "Gardenscapes - Apps on Google Play",
+    "Description": "Create your own garden and solve match-3 puzzles in this redesign game!",
+    "Keywords": "No keywords found",
+    "URL": "https://play.google.com/store/apps/details?id=com.playrix.gardenscapes"
+}
+{
+    "Title": "Homescapes - Apps on Google Play",
+    "Description": "Help Austin renovate his home and solve exciting match-3 puzzles along the way!",
+    "Keywords": "No keywords found",
+    "URL": "https://play.google.com/store/apps/details?id=com.playrix.homescapes"
+}
+{
+    "Title": "1945 Air Force: Airplane games - Apps on Google Play",
+    "Description": "Airplane game, Arcade games, Arcade shooter. Choose an airplane to fight",
+    "Keywords": "No keywords found",
+    "URL": "https://play.google.com/store/apps/details?id=com.os.airforce"
+}
+{
+    "Title": "Mobile Legends: Bang Bang - Apps on Google Play",
+    "Description": "Play the 5v5 MOBA game on mobile with players worldwide.",
+    "Keywords": "No keywords found",
+    "URL": "https://play.google.com/store/apps/details?id=com.mobile.legends"
+}
+{
+    "Title": "Hungry Shark Evolution - Apps on Google Play",
+    "Description": "Eat & evolve your shark in the ultimate shark survival game!",
+    "Keywords": "No keywords found",
+    "URL": "https://play.google.com/store/apps/details?id=com.fgol.HungrySharkEvolution"
+}
+{
+    "Title": "Cubes Empire Champions - Apps on Google Play",
+    "Description": "Blast, crush & match royal cubes in this awesome & fun cube matching puzzle game",
+    "Keywords": "No keywords found",
+    "URL": "https://play.google.com/store/apps/details?id=com.champion.cubes"
+}
+{
+    "Title": "Asphalt Legends Unite - Apps on Google Play",
+    "Description": "Sports racing game to drift on the streets. Play online solo & multiplayer mode",
+    "Keywords": "No keywords found",
+    "URL": "https://play.google.com/store/apps/details?id=com.gameloft.android.ANMP.GloftA9HM"
+}
+{
+    "Title": "CookieRun: Kingdom - Apps on Google Play",
+    "Description": "Build your Cookie Kingdom and team! An epic town building & adventure RPG game",
+    "Keywords": "No keywords found",
+    "URL": "https://play.google.com/store/apps/details?id=com.devsisters.ck"
+}
+{
+    "Title": "Age of Apes - Apps on Google Play",
+    "Description": "Select Monkey Warriors! Win This Brutal Banana War!",
+    "Keywords": "No keywords found",
+    "URL": "https://play.google.com/store/apps/details?id=com.tap4fun.ape.gplay"
+}
+{
+    "Title": "Rise of Kingdoms: Lost Crusade - Apps on Google Play",
+    "Description": "The Best Civilization Strategy Game. Conquer with Greece, Rise to Greatnes.",
+    "Keywords": "No keywords found",
+    "URL": "https://play.google.com/store/apps/details?id=com.lilithgame.roc.gp"
+}
+{
+    "Title": "Idle Mafia - Tycoon Manager - Apps on Google Play",
+    "Description": "Build your own Mafia empire, leave your legacy.",
+    "Keywords": "No keywords found",
+    "URL": "https://play.google.com/store/apps/details?id=com.gamemaker5.idlemafia"
+}
+{
+    "Title": "Return to the dream with the clip-winged traveler, Sunday",
+    "Description": "Former Oak Family head who is loving, selfless, and dedicated, natural leader of the Sweetdream Paradise.The dream of the Order has dissipated. The traveler whose wings were clipped... whereto shall his footsteps lead?Sunday is a support character that can make ally characters and their summons immediately take action. Additionally, Sunday can also regenerate a percentage of a designated character's Energy, as well as increase the character and their summons' DMG.",
+    "Keywords": "No keywords found",
+    "URL": "https://play.google.com/store/apps/eventdetails/4830853377792415030"
+}
+{
+    "Title": "Honkai: Star Rail - Apps on Google Play",
+    "Description": "HoYoverse's cosmic adventure strategy RPG with over 100 million downloads!",
+    "Keywords": "No keywords found",
+    "URL": "https://play.google.com/store/apps/details?id=com.HoYoverse.hkrpgoversea"
+}
+{
+    "Title": "Two warriors who can transform mid-battle arrive! Legends Festival 2024 on now!",
+    "Description": "As part of the Legends Festival 2024 celebration, Vegito and Goku Black both join the fight in Legends Limited rarity! During battle, Vegito can transform into Super Saiyan God SS, while Goku Black can transform into Super Saiyan Ros\u00c3\u00a9! You don't want to miss them!",
+    "Keywords": "No keywords found",
+    "URL": "https://play.google.com/store/apps/eventdetails/4828264127442287760"
+}
+{
+    "Title": "New Jungle Friend: Lion",
+    "Description": "A lion has quietly entered the jungle without disturbing its members. This lion is unique, exuding strength yet irresistibly cute, bringing a delightful surprise to the jungle family. Block Blast has also prepared many surprises for players, hidden within exciting challenges. Complete the levels and start your journey of discovery!",
+    "Keywords": "No keywords found",
+    "URL": "https://play.google.com/store/apps/eventdetails/4830607778385115132"
+}
+{
+    "Title": "Block Blast! - Apps on Google Play",
+    "Description": "Have fun with block puzzle games, match colors, and embark on a puzzle journey!",
+    "Keywords": "No keywords found",
+    "URL": "https://play.google.com/store/apps/details?id=com.block.juggle"
+}
+{
+    "Title": "Explore bundles to unlock your Toca Boca World",
+    "Description": "Check out our bundles with up to 50% off and explore, create, design and play out unlimited stories in Toca Boca World",
+    "Keywords": "No keywords found",
+    "URL": "https://play.google.com/store/apps/eventdetails/4828074761302536925"
+}
+{
+    "Title": "The Ballon d'Or Event",
+    "Description": "Enter the world of football's elite and celebrate brilliance with the Ballon d'Or Event. Experience brand new Chapters and Challenges, earn special rewards, and bring Ballon d'Or players to your team!",
+    "Keywords": "No keywords found",
+    "URL": "https://play.google.com/store/apps/eventdetails/4829281625804730522"
+}
+{
+    "Title": "Explore an unsettling biome in the free Garden Awakens game drop",
+    "Description": "Something stirs in the pale garden! Play the Garden Awakens drop today and explore an unsettling biome filled with pale oak trees and hanging moss. Follow a trail of eyeblossoms deeper into the darkness and come face to face with a creaking! Plus, build with new blocks, trim your armor with resin \u00e2\u0080\u0093 and more.",
+    "Keywords": "No keywords found",
+    "URL": "https://play.google.com/store/apps/eventdetails/4830928448126754823"
+}
+{
+    "Title": "Minecraft: Play with Friends - Apps on Google Play",
+    "Description": "Millions of crafters have smashed billions of blocks! Now you can join the fun!",
+    "Keywords": "No keywords found",
+    "URL": "https://play.google.com/store/apps/details?id=com.mojang.minecraftpe"
+}
+{
+    "Title": "Deck the halls with amazing decorations! Unwrap the Holiday Catalogue",
+    "Description": "Earn holiday currency and spend it on a flurry of decorations, expansion items and other cheerful rewards! For a limited time only \u00e2\u0080\u0093 don\u00e2\u0080\u0099t miss out!",
+    "Keywords": "No keywords found",
+    "URL": "https://play.google.com/store/apps/eventdetails/4831704948559058575"
+}
+{
+    "Title": "Hay Day - Apps on Google Play",
+    "Description": "Grow a farm, fish, and explore the Valley. Build your own slice of paradise!",
+    "Keywords": "No keywords found",
+    "URL": "https://play.google.com/store/apps/details?id=com.supercell.hayday"
+}
+{
+    "Title": "Celebrate Christmas with Piggy!",
+    "Description": "We\u00e2\u0080\u0099ve got merry surprises dashing your way!Ready for a very Coin Master Christmas?! Dash through the snow to discover new features, jolly deals and so much more!",
+    "Keywords": "No keywords found",
+    "URL": "https://play.google.com/store/apps/eventdetails/4830936158812913487"
+}
+{
+    "Title": "Coin Master - Apps on Google Play",
+    "Description": "Be the Coin Master: attack friends & collect coins in this fun adventure game!",
+    "Keywords": "No keywords found",
+    "URL": "https://play.google.com/store/apps/details?id=com.moonactive.coinmaster"
+}
+{
+    "Title": "50% off selected bundles!",
+    "Description": "Get the Phoenix Knight and Phoenix Guardian Bundles at a discount from the in-game store!",
+    "Keywords": "No keywords found",
+    "URL": "https://play.google.com/store/apps/eventdetails/4828869078389459995"
+}
+{
+    "Title": "MWT: Tank Battles - Apps on Google Play",
+    "Description": "Engage in Epic PvP Hi-Tech Tank Warfare with Drones and Aircraft!",
+    "Keywords": "No keywords found",
+    "URL": "https://play.google.com/store/apps/details?id=com.Shooter.ModernWarfront"
+}
+{
+    "Title": "Carrion - Apps on Google Play",
+    "Description": "HUNT. CONSUME. GROW. EVOLVE.",
+    "Keywords": "No keywords found",
+    "URL": "https://play.google.com/store/apps/details?id=com.devolverdigital.carrion"
+}
+{
+    "Title": "Grand Criminal Online: Sandbox - Apps on Google Play",
+    "Description": "Sandbox criminal open world action game with RP. Online life simulator game.",
+    "Keywords": "No keywords found",
+    "URL": "https://play.google.com/store/apps/details?id=ru.SOFFGames.gco"
+}
+{
+    "Title": "The Abandoned Planet - Apps on Google Play",
+    "Description": "A retro-inspired, pixel art, point and click adventure",
+    "Keywords": "No keywords found",
+    "URL": "https://play.google.com/store/apps/details?id=com.snapbreak.theabandonedplanet"
+}
+{
+    "Title": "Star Wars: Hunters\u00e2\u0084\u00a2 - Apps on Google Play",
+    "Description": "Battle in this multiplayer team combat mobile game in the STAR WARS galaxy!",
+    "Keywords": "No keywords found",
+    "URL": "https://play.google.com/store/apps/details?id=com.zynga.starwars.hunters"
+}
+{
+    "Title": "Clash of Destiny: Good vs Evil - Apps on Google Play",
+    "Description": "Choose your side in ever-shifting PvP Battles. Roguelike RPG Strategy awaits!",
+    "Keywords": "No keywords found",
+    "URL": "https://play.google.com/store/apps/details?id=com.clash.destiny"
+}
+{
+    "Title": "Loot Heroes: Fantasy RPG Games - Apps on Google Play",
+    "Description": "Squad up to become a star of the moba shooter brawl co-op role playing games!",
+    "Keywords": "No keywords found",
+    "URL": "https://play.google.com/store/apps/details?id=com.tapanywhere.lootheroes"
+}
+{
+    "Title": "Shadow Rival: Action War Game - Apps on Google Play",
+    "Description": "Dark Fantasy Hack and Slash, RPG Shadow Fight Offline Game",
+    "Keywords": "No keywords found",
+    "URL": "https://play.google.com/store/apps/details?id=com.ondi.shadow.rivals"
+}
+{
+    "Title": "NARUTO: Ultimate Ninja STORM - Apps on Google Play",
+    "Description": "A Naruto game full of 3D competitive action!",
+    "Keywords": "No keywords found",
+    "URL": "https://play.google.com/store/apps/details?id=com.bandainamcoent.ultimateninjastorm"
+}
+{
+    "Title": "Knights Go! - Apps on Google Play",
+    "Description": "\"Knights Go!\" is a Roguelike Vertical ACT game with seamless strikes and combos!",
+    "Keywords": "No keywords found",
+    "URL": "https://play.google.com/store/apps/details?id=com.knightsgo.uni.and"
+}
+{
+    "Title": "Archero 2 - Apps on Google Play",
+    "Description": "Roguelike 2.0: Bigger Better Faster!",
+    "Keywords": "No keywords found",
+    "URL": "https://play.google.com/store/apps/details?id=com.xq.archeroii"
+}
+{
+    "Title": "Hidden Objects: Seek & Find It - Apps on Google Play",
+    "Description": "Search & find hidden objects. Relax your mind with scavenger hunt puzzle games!",
+    "Keywords": "No keywords found",
+    "URL": "https://play.google.com/store/apps/details?id=find.hidden.objects.out.scavenger.hunt.puzzle.games.free"
+}
+{
+    "Title": "Nuts Sort - Color Puzzle Games - Apps on Google Play",
+    "Description": "Train Your Brain in this fun nuts and bolts color sort game! Sort it your way!",
+    "Keywords": "No keywords found",
+    "URL": "https://play.google.com/store/apps/details?id=nuts.sort.bolts.nut.color.game.free.screw.puzzle"
+}
+{
+    "Title": "Screw Jam Master : Nuts Puzzle - Apps on Google Play",
+    "Description": "Screw Jam Master: Get all the screws, nuts, bolts to the right boxes",
+    "Keywords": "No keywords found",
+    "URL": "https://play.google.com/store/apps/details?id=com.game.sjm_android"
+}
+{
+    "Title": "Makeover Triple Match 3D - Apps on Google Play",
+    "Description": "Help her! Tap, find & match tiles to solve puzzles. Love story & fashion journey",
+    "Keywords": "No keywords found",
+    "URL": "https://play.google.com/store/apps/details?id=makeover.triple.match.story.beauty.style.tile.puzzle"
+}
+{
+    "Title": "Traffic Jam Master: Car Escape - Apps on Google Play",
+    "Description": "Tap to help the cars to escape from traffic jams!",
+    "Keywords": "No keywords found",
+    "URL": "https://play.google.com/store/apps/details?id=com.game.tjm_android"
+}
+{
+    "Title": "Idle Mining Factory Tycoon - Apps on Google Play",
+    "Description": "Mining rocks, digging it.Become the richest mining tycoon",
+    "Keywords": "No keywords found",
+    "URL": "https://play.google.com/store/apps/details?id=com.hg.idleminingtycoon"
+}
+{
+    "Title": "Words and Friends: Cryptogram - Apps on Google Play",
+    "Description": "Master cryptograms, solve word puzzles & boost your skills in this brainy game",
+    "Keywords": "No keywords found",
+    "URL": "https://play.google.com/store/apps/details?id=com.matryoshka.word"
+}
+{
+    "Title": "Super Sort - 3D Triple Master - Apps on Google Play",
+    "Description": "Match triple goods, enjoy 3D goods sort game! Be a matching master!",
+    "Keywords": "No keywords found",
+    "URL": "https://play.google.com/store/apps/details?id=com.supersort.matching.goods.triple.puzzle"
+}
+{
+    "Title": "Screw Puzzle - Nuts Bolts Game - Apps on Google Play",
+    "Description": "Enjoy the screw puzzle! Master woody puzzles with nuts bolts to boost your IQ!",
+    "Keywords": "No keywords found",
+    "URL": "https://play.google.com/store/apps/details?id=screw.puzzle.nuts.bolts.pin.wood.games"
+}
+{
+    "Title": "Block Puzzle: Stack Infinity - Apps on Google Play",
+    "Description": "Classic block puzzle game: Train your brain with strategic stacking!",
+    "Keywords": "No keywords found",
+    "URL": "https://play.google.com/store/apps/details?id=block.puzzle.game.stack.classic"
+}
+{
+    "Title": "Shadow of the Depth - Apps on Google Play",
+    "Description": "Unique Western Fantasy Roguelike with a Distinctive Birds-Eye View",
+    "Keywords": "No keywords found",
+    "URL": "https://play.google.com/store/apps/details?id=com.chillyroom.sotd.gp"
+}
+{
+    "Title": "Summoners Legend: AFK idle RPG - Apps on Google Play",
+    "Description": "AFK adventure: summon, upgrade heroes, conquer dungeons, and dominate the arena!",
+    "Keywords": "No keywords found",
+    "URL": "https://play.google.com/store/apps/details?id=mobi.blackbears.games.idle.rpg.free.summoners"
+}
+{
+    "Title": "Matching Go! - Puzzle Games - Apps on Google Play",
+    "Description": "Match, build, and explore! Travel the world and solve puzzles along the way!",
+    "Keywords": "No keywords found",
+    "URL": "https://play.google.com/store/apps/details?id=com.matchinggo.puzzlegames"
+}
+{
+    "Title": "Brewtopia: Grow Coffee Beans - Apps on Google Play",
+    "Description": "Grow beans and build your perfect coffee utopia!",
+    "Keywords": "No keywords found",
+    "URL": "https://play.google.com/store/apps/details?id=ca.lbcstudios.coffee"
+}
+{
+    "Title": "Mystery Town - Merge & Cases - Apps on Google Play",
+    "Description": "Merge items, solve puzzles, and unravel the mystery!",
+    "Keywords": "No keywords found",
+    "URL": "https://play.google.com/store/apps/details?id=com.cedargames.mysterytown"
+}
+{
+    "Title": "Legend of Kingdoms: Idle RPG - Apps on Google Play",
+    "Description": "The unique simple and casual AFK RPG with the Kingdom theme. Fight for victory!",
+    "Keywords": "No keywords found",
+    "URL": "https://play.google.com/store/apps/details?id=com.legendofkingdoms.idlerpg.en"
+}
+{
+    "Title": "Rise of dune - Apps on Google Play",
+    "Description": "Train the Sandworm and dominate the dune",
+    "Keywords": "No keywords found",
+    "URL": "https://play.google.com/store/apps/details?id=com.riseofdune.strategy.gp"
+}
+{
+    "Title": "Triple Match: 3D Wonderland - Apps on Google Play",
+    "Description": "Triple Match 3D - Dive into Alice's magical match3 adventure in Wonderland!",
+    "Keywords": "No keywords found",
+    "URL": "https://play.google.com/store/apps/details?id=com.free.triple.match3d.android"
+}
+{
+    "Title": "The Last Survivor.io - Apps on Google Play",
+    "Description": "Inaugural 3D magical world Roguelike game",
+    "Keywords": "No keywords found",
+    "URL": "https://play.google.com/store/apps/details?id=com.ifun.tdfsus.gp"
+}
+{
+    "Title": "Darkest Hero - Apps on Google Play",
+    "Description": "Battle, Loot, CUSTOMIZE",
+    "Keywords": "No keywords found",
+    "URL": "https://play.google.com/store/apps/details?id=com.minidragon.darkesthero"
+}
+{
+    "Title": "Abalon: Roguelike Tactics CCG - Apps on Google Play",
+    "Description": "Embark on epic adventures and perfect your strategy in this deck building RPG",
+    "Keywords": "No keywords found",
+    "URL": "https://play.google.com/store/apps/details?id=air.com.d20studios.summonersfate"
+}
+{
+    "Title": "DeliveryZ - Zombie Driving MMO - Apps on Google Play",
+    "Description": "Deliver fast, run over zombies, deliver the burger, and get a good tip!",
+    "Keywords": "No keywords found",
+    "URL": "https://play.google.com/store/apps/details?id=com.lightfoxgames.deliveryz"
+}
+{
+    "Title": "Halls of Torment: Premium - Apps on Google Play",
+    "Description": "Slay hordes of terrifying monsters in this horde survival roguelite.",
+    "Keywords": "No keywords found",
+    "URL": "https://play.google.com/store/apps/details?id=com.halls.of.torment.paid.gp"
+}
+{
+    "Title": "Children of Morta - Apps on Google Play",
+    "Description": "A story-driven roguelite RPG",
+    "Keywords": "No keywords found",
+    "URL": "https://play.google.com/store/apps/details?id=com.playdigious.childrenofmorta"
+}
+{
+    "Title": "Cook & Merge Kate's Adventure - Apps on Google Play",
+    "Description": "Merge, cook, & unravel a culinary adventure as you travel the beachside town",
+    "Keywords": "No keywords found",
+    "URL": "https://play.google.com/store/apps/details?id=com.supersolid.cookandmerge"
+}
+{
+    "Title": "Match Battle - Apps on Google Play",
+    "Description": "Dive into match-3 battles! Epic hero cards are waiting for you\u00ef\u00bc\u0081",
+    "Keywords": "No keywords found",
+    "URL": "https://play.google.com/store/apps/details?id=com.alinagame.puzzlelegends"
+}
+{
+    "Title": "Balatro - Apps on Google Play",
+    "Description": "When Poker Meets Solitaire",
+    "Keywords": "No keywords found",
+    "URL": "https://play.google.com/store/apps/details?id=com.playstack.balatro.android"
+}
+{
+    "Title": "Stardew Valley - Apps on Google Play",
+    "Description": "The smash hit farming RPG now on mobile!",
+    "Keywords": "No keywords found",
+    "URL": "https://play.google.com/store/apps/details?id=com.chucklefish.stardewvalley"
+}
+{
+    "Title": "Sky: Children of the Light - Apps on Google Play",
+    "Description": "Sky is a peaceful and cozy MMO about genuine human connection.",
+    "Keywords": "No keywords found",
+    "URL": "https://play.google.com/store/apps/details?id=com.tgc.sky.android"
+}
+{
+    "Title": "The Battle of Polytopia - Apps on Google Play",
+    "Description": "Turn based strategy game. Build a civilization and take it into battle!",
+    "Keywords": "No keywords found",
+    "URL": "https://play.google.com/store/apps/details?id=air.com.midjiwan.polytopia"
+}
+{
+    "Title": "K-Pop Academy - Apps on Google Play",
+    "Description": "Lead cute and adorable stars in this idle idol management sim!",
+    "Keywords": "No keywords found",
+    "URL": "https://play.google.com/store/apps/details?id=com.hyperbeard.idolpopstars"
+}
+{
+    "Title": "Usagi Shima: Cute Bunny Game - Apps on Google Play",
+    "Description": "Design your cute bunny island!",
+    "Keywords": "No keywords found",
+    "URL": "https://play.google.com/store/apps/details?id=com.pank0.usagishima"
+}
+{
+    "Title": "Shadow Trick - Apps on Google Play",
+    "Description": "Turn into a shadow and clear all the levels.",
+    "Keywords": "No keywords found",
+    "URL": "https://play.google.com/store/apps/details?id=com.neutronized.shadowtrick"
+}
+{
+    "Title": "Game Dev Tycoon - Apps on Google Play",
+    "Description": "Replay gaming history - The hit tycoon game, now on Android",
+    "Keywords": "No keywords found",
+    "URL": "https://play.google.com/store/apps/details?id=com.greenheartgames.gdt"
+}
+{
+    "Title": "Monument Valley 2 - Apps on Google Play",
+    "Description": "Immerse yourself in this impossibly beautiful mobile adventure.",
+    "Keywords": "No keywords found",
+    "URL": "https://play.google.com/store/apps/details?id=com.ustwo.monumentvalley2"
+}
+{
+    "Title": "Haunted Laia - Apps on Google Play",
+    "Description": "Laia's house have a secret inside. Find out in this intriguing game.",
+    "Keywords": "No keywords found",
+    "URL": "https://play.google.com/store/apps/details?id=air.com.darkdome.haunted.laia"
+}
+{
+    "Title": "Dungeons of Dreadrock - Apps on Google Play",
+    "Description": "An immersive puzzle dungeon adventure - Winner of IGF 2022",
+    "Keywords": "No keywords found",
+    "URL": "https://play.google.com/store/apps/details?id=com.goongames.DungeonsofDreadrock"
+}
+{
+    "Title": "Superliminal - Apps on Google Play",
+    "Description": "Mind-bending Optical Puzzles",
+    "Keywords": "No keywords found",
+    "URL": "https://play.google.com/store/apps/details?id=com.noodlecake.superliminal"
+}
+{
+    "Title": "GUBBINS - Apps on Google Play",
+    "Description": "(it's a word game)",
+    "Keywords": "No keywords found",
+    "URL": "https://play.google.com/store/apps/details?id=com.StudioFolly.GUBBINS"
+}
+{
+    "Title": "Google Play Pass",
+    "Description": "No description found",
+    "Keywords": "No keywords found",
+    "URL": "https://play.google.com/store/pass/getstarted"
+}
+{
+    "Title": "Sign in - Google Accounts",
+    "Description": "",
+    "Keywords": "No keywords found",
+    "URL": "https://play.google.com/store/points/enroll"
+}
+{
+    "Title": "      Gift Card Promotions, Where to Buy, & Management - Google Play    ",
+    "Description": "Google Play gift cards offer endless ways to play. Discover gift card promotions, manage gift card spending, and find where to buy online & in-store.",
+    "Keywords": "No keywords found",
+    "URL": "https://play.google.com/about/giftcards"
+}
+{
+    "Title": "Android Apps on Google Play",
+    "Description": "Enjoy millions of the latest Android apps, games, music, movies, TV, books, magazines & more. Anytime, anywhere, across your devices.",
+    "Keywords": "No keywords found",
+    "URL": "https://play.google.com/redeem"
+}
+{
+    "Title": "Learn about Google Play refund policies - Google Play Help",
+    "Description": "Google may give refunds for some purchases made through Google Play\u00e2\u0080\u0099s billing system, based on the refund policies described below. Refund policies are different depending on what you bought, when",
+    "Keywords": "No keywords found",
+    "URL": "https://support.google.com/googleplay/answer/134336"
+}
+{
+    "Title": "Parent guide to Google Play - Google Play Help",
+    "Description": "Explore the topics below to learn about features for parents in Google Play. Find content for kids On your Android phone or tablet, open the Google Play Store",
+    "Keywords": "No keywords found",
+    "URL": "https://support.google.com/googleplay?p=pff_parentguide"
+}
+{
+    "Title": "Use Google Play Family Library - Google Play Help",
+    "Description": "You can share purchased apps, games, movies, TV shows, and e-books and audiobooks&nbsp;from Google Play with up to 5 family members using Google Play Family Library. Sign up for Family Library Impor",
+    "Keywords": "No keywords found",
+    "URL": "https://support.google.com/googleplay/answer/7007852"
+}
+{
+    "Title": "",
+    "Description": "No description found",
+    "Keywords": "No keywords found",
+    "URL": "https://play.google.com/intl/en_us/about/play-terms.html"
+}
+{
+    "Title": "About Google Play - Google Play Help",
+    "Description": "Google Play is a service provided by: Google LLC 1600 Amphitheatre Parkway Mountain View, CA 94043 USA VAT numbers for Google Commerce Limited:",
+    "Keywords": "No keywords found",
+    "URL": "https://support.google.com/googleplay/?p=about_play"
+}
+{
+    "Title": "Android Mobile App Developer Tools \u2013 Android Developers",
+    "Description": "Discover the latest app development tools, platform updates, training, and documentation for developers across every Android device.",
+    "Keywords": "No keywords found",
+    "URL": "http://developer.android.com/index.html"
+}
+{
+    "Title": "Google Store for Google Made Devices & Accessories",
+    "Description": "Shop the latest made by Google devices including Pixel 9 & Pixel 9 Pro, Pixel 9 Pro Fold, Pixel Watch 3, Google TV Streamer, at Google Store!",
+    "Keywords": "No keywords found",
+    "URL": "https://store.google.com/?playredirect=true"
+}
+{
+    "Title": "YouTube",
+    "Description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+    "Keywords": "video, sharing, camera phone, video phone, free, upload",
+    "URL": "https://www.youtube.com/"
+}
+{
+    "Title": "About YouTube - YouTube",
+    "Description": "YouTube\u2019s mission is to give everyone a voice and show them the world. Learn about our brand, community, careers and more.",
+    "Keywords": "No keywords found",
+    "URL": "https://www.youtube.com/about/"
+}
+{
+    "Title": "                                    YouTube Blog \u2014 Official Blog for Latest YouTube News & Insights                                        ",
+    "Description": "Explore our official blog for the latest news about YouTube, creator and artist profiles, culture and trends analyses, and behind-the-scenes insights.",
+    "Keywords": "youtube blog, news about youtube, blog insights",
+    "URL": "https://www.youtube.com/about/press/"
+}
+{
+    "Title": "YouTube Copyright Rules & Policies - How YouTube Works",
+    "Description": "Explore YouTube's copyright rules and policies to learn more about how we give rights holders control of their copyrighted material on YouTube.",
+    "Keywords": "No keywords found",
+    "URL": "https://www.youtube.com/about/copyright/"
+}
+{
+    "Title": "Contact Us",
+    "Description": "No description found",
+    "Keywords": "No keywords found",
+    "URL": "https://www.youtube.com/t/contact_us/"
+}
+{
+    "Title": "      YouTube Creators - Education & Inspiration for Video Creators    ",
+    "Description": "Explore YouTube Creators for everything you need to know about the video & content creator journey, and how to make the most of yours.",
+    "Keywords": "No keywords found",
+    "URL": "https://www.youtube.com/creators/"
+}
+{
+    "Title": "Redirecting",
+    "Description": "No description found",
+    "Keywords": "No keywords found",
+    "URL": "https://www.youtube.com/ads/"
+}
+{
+    "Title": "YouTube \u00a0|\u00a0 Google for Developers",
+    "Description": "Add YouTube functionality to your sites and apps.",
+    "Keywords": "No keywords found",
+    "URL": "https://developers.google.com/youtube"
+}
+{
+    "Title": "Terms of Service",
+    "Description": "No description found",
+    "Keywords": "No keywords found",
+    "URL": "https://www.youtube.com/t/terms"
+}
+{
+    "Title": "Privacy Policy \u00e2\u0080\u0093 Privacy & Terms \u00e2\u0080\u0093 Google",
+    "Description": "No description found",
+    "Keywords": "No keywords found",
+    "URL": "https://www.youtube.com/t/privacy"
+}
+{
+    "Title": "YouTube Community Guidelines & Policies - How YouTube Works",
+    "Description": "Our Community Guidelines and policies apply to all YouTube content and define what you can and cannot do on YouTube.",
+    "Keywords": "No keywords found",
+    "URL": "https://www.youtube.com/about/policies/"
+}
+{
+    "Title": "How YouTube Works - Product Features, Responsibility, & Impact",
+    "Description": "Discover how YouTube Products work and what we're doing to protect our community so that creativity, diversity, and respect are able to thrive.",
+    "Keywords": "No keywords found",
+    "URL": "https://www.youtube.com/howyoutubeworks?utm_campaign=ytgen&utm_source=ythp&utm_medium=LeftNav&utm_content=txt&u=https%3A%2F%2Fwww.youtube.com%2Fhowyoutubeworks%3Futm_source%3Dythp%26utm_medium%3DLeftNav%26utm_campaign%3Dytgen"
+}
+{
+    "Title": "Labs page for YouTube",
+    "Description": "Try experimental new features. Sign up to participate in user experience research studies and get rewarded for your time.",
+    "Keywords": "No keywords found",
+    "URL": "https://www.youtube.com/new"
+}
+{
+    "Title": "      The Exclusive Home of NFL Sunday Ticket - YouTube & YouTube TV    ",
+    "Description": "With NFL Sunday Ticket and YouTube TV, you get every game, every Sunday.",
+    "Keywords": "No keywords found",
+    "URL": "https://tv.youtube.com/learn/nflsundayticket"
+}
+Failed to fetch content for URL: https://news.google.com\/?hl=en-US&gl=US&ceid=US%3Aen
+{
+    "Title": "Browse All of Google's Products & Services - Google",
+    "Description": "Browse a list of Google products designed to help you work and play, stay organized, get answers, keep in touch, grow your business, and more.",
+    "Keywords": "No keywords found",
+    "URL": "https://www.google.com/intl/en/about/products?tab=nh"
+}
+{
+    "Title": "Sign in - Google Accounts",
+    "Description": "",
+    "Keywords": "No keywords found",
+    "URL": "https://accounts.google.com/ServiceLogin?passive=1209600&continue=https://news.google.com/home?tab%3Dwn%26hl%3Den-US%26gl%3DUS%26ceid%3DUS:en&followup=https://news.google.com/home?tab%3Dwn%26hl%3Den-US%26gl%3DUS%26ceid%3DUS:en&hl=en-US&ec=GAZAqgM"
+}
+Failed to fetch content for URL: https://news.google.com\/home?hl=en-US&gl=US&ceid=US%3Aen
+{
+    "Title": "Google News",
+    "Description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+    "Keywords": "No keywords found",
+    "URL": "https://news.google.com/"
+}
+Failed to fetch content for URL: https://news.google.com\/showcase?hl=en-US&gl=US&ceid=US%3Aen
+Failed to fetch content for URL: https://news.google.com\/topics/CAAqIggKIhxDQkFTRHdvSkwyMHZNRGxqTjNjd0VnSmxiaWdBUAE?hl=en-US&gl=US&ceid=US%3Aen
+Failed to fetch content for URL: https://news.google.com\/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx1YlY4U0FtVnVHZ0pWVXlnQVAB?hl=en-US&gl=US&ceid=US%3Aen
+Failed to fetch content for URL: https://news.google.com\/topics/CAAqHAgKIhZDQklTQ2pvSWJHOWpZV3hmZGpJb0FBUAE?hl=en-US&gl=US&ceid=US%3Aen
+Failed to fetch content for URL: https://news.google.com\/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx6TVdZU0FtVnVHZ0pWVXlnQVAB?hl=en-US&gl=US&ceid=US%3Aen
+Failed to fetch content for URL: https://news.google.com\/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGRqTVhZU0FtVnVHZ0pWVXlnQVAB?hl=en-US&gl=US&ceid=US%3Aen
+Failed to fetch content for URL: https://news.google.com\/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNREpxYW5RU0FtVnVHZ0pWVXlnQVAB?hl=en-US&gl=US&ceid=US%3Aen
+Failed to fetch content for URL: https://news.google.com\/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRFp1ZEdvU0FtVnVHZ0pWVXlnQVAB?hl=en-US&gl=US&ceid=US%3Aen
+Failed to fetch content for URL: https://news.google.com\/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRFp0Y1RjU0FtVnVHZ0pWVXlnQVAB?hl=en-US&gl=US&ceid=US%3Aen
+Failed to fetch content for URL: https://news.google.com\/topics/CAAqIQgKIhtDQkFTRGdvSUwyMHZNR3QwTlRFU0FtVnVLQUFQAQ?hl=en-US&gl=US&ceid=US%3Aen
+{
+    "Title": "Red Flag (Fire Weather) Warning - Google Search",
+    "Description": "No description found",
+    "Keywords": "No keywords found",
+    "URL": "https://www.google.com/search?q=Red%20Flag%20%28Fire%20Weather%29%20Warning&hl=en&stick=H4sIAAAAAAAAAONQUeLVT9c3NMypTKmwsKwsfsRoxS3w8sc9YSnDXWcbq3W4NLhQFSiJc4nqJ-fn5KQml2Tm5-mnZBYnFpekFhULMPIsYpUPSk1RcMtJTFfQcMssSlUIT00syUgt0lQITyzKy8xLBwDiWipdcAAAAA"
+}
+{
+    "Title": "Weather Forecast and Conditions for Fullerton, CA - The Weather Channel | Weather.com",
+    "Description": "Today\u2019s and tonight\u2019s Fullerton, CA weather forecast, weather conditions and Doppler radar from The Weather Channel and Weather.com",
+    "Keywords": "No keywords found",
+    "URL": "https://www.weather.com/wx/today/?lat=33.88&lon=-117.89&locale=en_US&par=google"
+}
+Failed to fetch content for URL: https://news.google.com\/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRFZxYUdjU0FtVnVHZ0pWVXlnQVAB?hl=en-US&gl=US&ceid=US%3Aen
+Failed to fetch content for URL: https://news.google.com\/read/CBMiigFBVV95cUxQVE84Q1hQejBmcmY5aXdmTWZGM1RYdlN5TjlJb0ZIdmhSYjc2Wk4tZW9HRFRkY3hvVFFaR3NndHZBTHZxUDYwNjFHbElmZjN5bklvdldSaG5oMXBxNjNhQ1hGMDZyeDhDeVlhVV9iazhxUEJTLWdtLXk3SjJUdUxmN0IzM3ctOGc0d3c?hl=en-US&gl=US&ceid=US%3Aen
+Failed to fetch content for URL: https://news.google.com\/read/CBMigAFBVV95cUxNczNzaWtHMmVLY05hZ05CajV3VE4xVjFEbWlrWXdyUFQwV0JJRU54NWFZWTJMVU1LNEVEM185S2xlelBpOXlnOHIzdXpoVGFqTFJxWFV3akpWbC1ROUs5N0FQZ3RpR2txRjNDWV9jdFA1RTJNTWNBd211TVVYa2pmc9IBhgFBVV95cUxORmRmVFdaTFBsZ3Y5YmI1SXhBc0xJd3BZamh6ek54cndlVmUyeTRCSm1BWlhRTThhQzFZdXo0Zm1TeHk4UDhyRmFrcUczVTZWb3lZckpjb0s3Mk1vRGN5c09ETXJtQ21EbzkweENOZHREaF9td1FSMmFabTVkd0JFaGNWdDNudw?hl=en-US&gl=US&ceid=US%3Aen
+Failed to fetch content for URL: https://news.google.com\/read/CBMimAFBVV95cUxNUXU0TXZGaFV2cjgxT3NWWWdGeTRodlJfczJvZVRuNVJfa01VMEpGQ0dJWGVkV1BLSVVSZzJvTHVZRGVwQmlQWFJfNzVnUDBEb0JRMVpTOEdqb18waFl3RGEya2FYUGFvTWd0elA5RTlPYk1fcUR0M2ZfMUxneDAwcXdpbVd6XzhfM2hFcFZmUHdnUHdOVEFGeA?hl=en-US&gl=US&ceid=US%3Aen
+Failed to fetch content for URL: https://news.google.com\/read/CBMirwFBVV95cUxNblFVbF9mdzZCLXBxY1BneWtrczRVYzl1bDlfU0tidmlMMUJBMnF5NFJQeHdkUV9Hd0ZlS2s2NnJvSHg5UTl1YWJ5X0hIbUZoYzRIcFc4UFhIOUlrd2FheHI1eVBiX0JFWTBQa1VmLVhvZU50ZUd3NzJ4SHB3bDVlWnJYUHJpVFZVX2VDbVZwYkxVajVZQUx2TldEb1lvTi1qU2FxQTMtWDhEVjljeDZN?hl=en-US&gl=US&ceid=US%3Aen
+Failed to fetch content for URL: https://news.google.com\/stories/CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2lua0pmcURCRlYyOUF6Q2RCYmpDZ0FQAQ?hl=en-US&gl=US&ceid=US%3Aen
+Failed to fetch content for URL: https://news.google.com\/read/CBMisAFBVV95cUxNbFdwX256VWZWSXJuWlVGcmgwTVVCNnE2aGc2Q0xROXRFOHI4b0JlMnd0U2x6RGFFQi1TSVBGRHh3WUdGWFhwdGx6V2hKUXVVTmtHelBhUUZiRzM3Y3lsRE9vMzRXamlldVVVYkFtX21oN1k0ZnNUdjhjNnUtdEk2ZDJYaDFFSjhITllzaWdya1piRUR3ZEhTcXNxcm9HSmp6Z3JUSXFBRWxsYkNERFJXMQ?hl=en-US&gl=US&ceid=US%3Aen
+Failed to fetch content for URL: https://news.google.com\/read/CBMisgFBVV95cUxPOFM2NzVmdkZLdElZZ2VmZGkwTEpJcWpMVVlFMFBHYU56Q0N1SlpjZllwT0xpcUM5cU0wM2l2blBMdmdWVmF3NUtORkdkQ0dNb093NDRJV2pxWlZFemlMc0k2dW52R3lJRUtHR050NVhOVHRUbUVDZHZkVlI3VW5KVFo4WXl2Qk1Ncm14MHItNG0yMkxxTTN2OGFobkJjWG9BUTRfb2tLT2tna01IUlFZQWtR0gFWQVVfeXFMT3FrUVhQeDBWbDZVM2hsbXo2UVRfUEM3MnBoSXBUMXk3LTdSTVVpYV9kVU05YzFkZjBJc3JiSWFSaHRBaFVONUpBSW5Ua3VJbjVjTUk3WHc?hl=en-US&gl=US&ceid=US%3Aen
+Failed to fetch content for URL: https://news.google.com\/read/CBMid0FVX3lxTE5xX09JRFZ0V1NDWnRnLThkekhjLXV3VllLWk9Bb3U3eG4tRkFSUjJPb18zQjVRaTZuT2JCV1podnV5d3dtLXBWVHdVWWZsTDRiek4zX1pmTVRBa0FEdVkzZGlmSC1tT2xjZVRUMjFIT1FfaVFDcXdn?hl=en-US&gl=US&ceid=US%3Aen
+Failed to fetch content for URL: https://news.google.com\/read/CBMiWkFVX3lxTFB5ZEE3M2VCY09JVGtTR2M2aThNc2RuaDV5UkhfQXpLRE9GVVhROG5ub3hGY0o1cERYeDFVbTJ5Q21FVnNqTG1SM0RpUnFYUWJyQU9pWElWR0thZw?hl=en-US&gl=US&ceid=US%3Aen
+Failed to fetch content for URL: https://news.google.com\/stories/CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2pual9uckRCSGhCamstRnZhZ19TZ0FQAQ?hl=en-US&gl=US&ceid=US%3Aen
+Failed to fetch content for URL: https://news.google.com\/read/CBMiekFVX3lxTE1yN2dWb3V6dU9CaGlxc013eUs4QS1ubU9EOXk3RWE0VFM2d0JsQl9kYjR0ZU9IQ0dfaEhkdWRHYUI0b3FFQlhqSlhHMk12dWc1RU5tc2o0ZGZNSUxXbTRoRERRbUFNbGNhcUJhVzlVQ3VmdlhyUEkxV3JB?hl=en-US&gl=US&ceid=US%3Aen
+Failed to fetch content for URL: https://news.google.com\/stories/CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2kteDV2c0RCRlRIbkpSTDVlRkppZ0FQAQ?hl=en-US&gl=US&ceid=US%3Aen
+Failed to fetch content for URL: https://news.google.com\/read/CBMihwFBVV95cUxNclhVOGFITjM3cTVFUW9iTHZDN19OTkV4WmdDQkFzU2IwNlZyRjVHYlVxaFlqazlzQVQ3MWhvcHhTbzBMUVdsemJBX2htbmlPTzAzQllkRkJwclA2QUlDTjYxenh6bDNkSkYyX1BuZzlQUVMyU3Q2Mmh0eUhyUGlWakd3UTlhbkE?hl=en-US&gl=US&ceid=US%3Aen
+Failed to fetch content for URL: https://news.google.com\/stories/CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2lNeGY3dURCSEp3cFRkWWpHV3pTZ0FQAQ?hl=en-US&gl=US&ceid=US%3Aen
+{
+    "Title": "Sign in - Google Accounts",
+    "Description": "",
+    "Keywords": "No keywords found",
+    "URL": "https://accounts.google.com/ServiceLogin?hl=en-US&continue=https://news.google.com/home?tab%3Dwn%26hl%3Den-US%26gl%3DUS%26ceid%3DUS:en&hl=en-US&gl=US&ceid=US%3Aen"
+}
+Failed to fetch content for URL: https://mail.google.com/signin/usernamerecovery?continue=https://mail.google.com/mail/u/0/?tab%3Dwm&dsh=S1007968368:1733689671843088&emr=1&flowEntry=ServiceLogin&flowName=WebLiteSignIn&followup=https://mail.google.com/mail/u/0/?tab%3Dwm&ifkv=AcMMx-fMTtAo2NIU6J_BooeBOPIdGg-XCPtjfFi-F8dMwo9Pxmpt3iOgCvh_CWUGEh7DZq4vZyiRUw&osid=1&service=mail
+{
+    "Title": "Sign in on a device that's not yours - Computer - Google Account Help",
+    "Description": "If you sign in temporarily on a computer, phone, or tablet that doesn't belong to you, use a private browsing window. For example: A public computer that's available to lots of people, like at a",
+    "Keywords": "No keywords found",
+    "URL": "https://support.google.com/accounts?p=signin_privatebrowsing&hl=en-US"
+}
+Failed to fetch content for URL: https://mail.google.com/lifecycle/flows/signup?continue=https://mail.google.com/mail/u/0/?tab%3Dwm&dsh=S1007968368:1733689671843088&emr=1&flowEntry=SignUp&flowName=GlifWebSignIn&followup=https://mail.google.com/mail/u/0/?tab%3Dwm&ifkv=AcMMx-fMTtAo2NIU6J_BooeBOPIdGg-XCPtjfFi-F8dMwo9Pxmpt3iOgCvh_CWUGEh7DZq4vZyiRUw&osid=1&service=mail
+{
+    "Title": "Google Account Help",
+    "Description": "Official Google Account Help Center where you can find tips and tutorials on using Google Account and other answers to frequently asked questions.",
+    "Keywords": "No keywords found",
+    "URL": "https://support.google.com/accounts?hl=en-US&p=account_iph"
+}
+{
+    "Title": "Privacy Policy \u00e2\u0080\u0093 Privacy & Terms \u00e2\u0080\u0093 Google",
+    "Description": "No description found",
+    "Keywords": "No keywords found",
+    "URL": "https://accounts.google.com/TOS?loc=US&hl=en-US&privacy=true"
+}
+{
+    "Title": "Google Terms of Service \u00e2\u0080\u0093 Privacy & Terms \u00e2\u0080\u0093 Google",
+    "Description": "No description found",
+    "Keywords": "No keywords found",
+    "URL": "https://accounts.google.com/TOS?loc=US&hl=en-US"
+}
+Failed to fetch content for URL: https://drive.google.com/signin/usernamerecovery?continue=https://drive.google.com/?tab%3Dwo&dsh=S1580578850:1733689678373128&emr=1&flowEntry=ServiceLogin&flowName=WebLiteSignIn&followup=https://drive.google.com/?tab%3Dwo&ifkv=AcMMx-cFcSpyzbj5arjWdw_VioLq1FmzvMe_7D-F4Bv-7KkwyvTVzJlFqUueRCHhU4FpyVreGuXVTg&osid=1&service=wise
+Failed to fetch content for URL: https://drive.google.com/lifecycle/flows/signup?continue=https://drive.google.com/?tab%3Dwo&dsh=S1580578850:1733689678373128&emr=1&flowEntry=SignUp&flowName=GlifWebSignIn&followup=https://drive.google.com/?tab%3Dwo&ifkv=AcMMx-cFcSpyzbj5arjWdw_VioLq1FmzvMe_7D-F4Bv-7KkwyvTVzJlFqUueRCHhU4FpyVreGuXVTg&osid=1&service=wise
+{
+    "Title": "Browse All of Google's Products & Services - Google",
+    "Description": "Browse a list of Google products designed to help you work and play, stay organized, get answers, keep in touch, grow your business, and more.",
+    "Keywords": "No keywords found",
+    "URL": "https://www.google.com/intl/en/about/products#page-content"
+}
+{
+    "Title": "Google",
+    "Description": "Search the world's information, including webpages, images, videos and more. Google has many special features to help you find exactly what you're looking for.",
+    "Keywords": "No keywords found",
+    "URL": "https://www.google.com/../"
+}
+{
+    "Title": "Google Shopping - Shop Online, Compare Prices & Where to Buy",
+    "Description": "Browse Google Shopping to find the products you\u00e2\u0080\u0099re looking for, track & compare prices, and decide where to buy online or in store.",
+    "Keywords": "No keywords found",
+    "URL": "https://www.google.com/../products/"
+}
+Failed to fetch content for URL: https://www.google.com/../commitments/
+Failed to fetch content for URL: https://www.google.com/../stories/
+{
+    "Title": "The Keyword | Google Product and Technology News and Stories",
+    "Description": "Get the latest news and stories about Google products, technology and innovation on the Keyword, Google's official blog.",
+    "Keywords": "No keywords found",
+    "URL": "https://www.blog.google/?utm_source=about.google&utm_medium=referral&utm_campaign=nav-the-keyword"
+}
+{
+    "Title": "Building a Sense of Belonging at Google and Beyond",
+    "Description": "Learn how we create a sense of belonging by building an inclusive culture with diverse perspectives to better the workplace, society, and our products.",
+    "Keywords": "No keywords found",
+    "URL": "https://www.google.com/../belonging/"
+}
+{
+    "Title": "Google Learning -  Digital Learning Tools & Solutions",
+    "Description": "Explore digital learning tools and solutions from Google designed to help everyone in the world learn anything in the world.",
+    "Keywords": "digital learning, digital learning tools, learning solution",
+    "URL": "https://learning.google/?utm_source=about.google&utm_medium=referral&utm_campaign=site-switcher-nav"
+}
+{
+    "Title": "Google Safety Center - Stay Safer Online",
+    "Description": "Making technology for everyone means protecting everyone who uses it. Explore what Google does to help you stay safe online.",
+    "Keywords": "No keywords found",
+    "URL": "https://safety.google/?utm_source=about.google&utm_medium=referral&utm_campaign=site-switcher-nav"
+}
+{
+    "Title": "No title found",
+    "Description": "No description found",
+    "Keywords": "No keywords found",
+    "URL": "https://crisisresponse.google/?utm_source=about.google&utm_medium=referral&utm_campaign=site-switcher-nav"
+}
+{
+    "Title": "No title found",
+    "Description": "No description found",
+    "Keywords": "No keywords found",
+    "URL": "https://sustainability.google/?utm_source=about.google&utm_medium=referral&utm_campaign=site-switcher-nav"
+}
+{
+    "Title": "Google Help",
+    "Description": "",
+    "Keywords": "No keywords found",
+    "URL": "https://support.google.com/"
+}
+{
+    "Title": "Contact the Google Disability support team - Google Accessibility Help",
+    "Description": "The Google Disability Support team is available to support users from the disability community with Google products. Support includes accessibility features, functionalities, and assistive technology.",
+    "Keywords": "No keywords found",
+    "URL": "https://support.google.com/accessibility/answer/7641084?hl=en&ref_topic=9071908"
+}
+{
+    "Title": "Google Store for Google Made Devices & Accessories",
+    "Description": "Shop the latest made by Google devices including Pixel 9 & Pixel 9 Pro, Pixel 9 Pro Fold, Pixel Watch 3, Google TV Streamer, at Google Store!",
+    "Keywords": "No keywords found",
+    "URL": "https://store.google.com/"
+}
+{
+    "Title": "Products | The Keyword",
+    "Description": "Dive deep into the latest news about products across Google.",
+    "Keywords": "No keywords found",
+    "URL": "https://www.blog.google/products/"
+}
+{
+    "Title": "Browse All of Google's Products & Services - Google",
+    "Description": "Browse a list of Google products designed to help you work and play, stay organized, get answers, keep in touch, grow your business, and more.",
+    "Keywords": "No keywords found",
+    "URL": "https://www.google.com/intl/en/about/products#all-products"
+}
+{
+    "Title": "Pixel Phones, the Only Smartphones Engineered by Google",
+    "Description": "Shop the latest Pixel smartphones Pixel 9, Pixel 9 Pro, and Pixel 9 Pro Fold. The only smartphones engineered by Google. Get more done throughout your day and enjoy new features every few months.",
+    "Keywords": "No keywords found",
+    "URL": "https://store.google.com/category/phones?utm_source=about&utm_medium=google_oo&utm_campaign=GS108064&utm_term=pixel"
+}
+Failed to fetch content for URL: https://www.google.com/intl/en/about/../belonging/in-products/
+Failed to fetch content for URL: https://www.google.com/intl/en/about/../belonging/in-products
+{
+    "Title": "Explore What's New: Android\u2019s Latest Features | Android",
+    "Description": "Discover new Google updates to Android, including AI features and improvements to your phones, tablets, and Wear OS smartwatches.",
+    "Keywords": "",
+    "URL": "https://www.android.com/new-features-on-android/?utm_source=google&utm_medium=owned&utm_campaign=about.google%20updates"
+}
+{
+    "Title": "Discover the Newest Android Phones and Features | Android",
+    "Description": "Explore new Android phones, features, and updates such as flips or foldables, AI features & more to take your mobile experience to the next level.",
+    "Keywords": "android phones,  new android phones,  android smartphone",
+    "URL": "https://www.android.com/phones/?utm_source=aboutgoogle&utm_medium=owned&utm_campaign=betoces"
+}
+{
+    "Title": "Tablet Devices For Work, Play and Watch | Android",
+    "Description": "Explore the wide range of Android tablet devices, and discover how they deliver helpful, personalized experiences\u2014for both work and play.",
+    "Keywords": "",
+    "URL": "https://www.android.com/tablets/?utm_source=aboutgoogle&utm_medium=owned&utm_campaign=betoces"
+}
+{
+    "Title": "Wear OS by Google | The smartwatch operating system that connects you to what matters most",
+    "Description": "Connect to your Google apps, health and wellness, and more right from your wrist with a Wear OS smartwatch. Maps and directions, music and media controls available to you with a glance.",
+    "Keywords": "No keywords found",
+    "URL": "https://wearos.google.com/?utm_source=aboutgoogle&utm_medium=owned&utm_campaign=betoces"
+}
+{
+    "Title": "Android Auto | Android",
+    "Description": "Experience the best features of your Android device when driving with Android Auto. Just tap your car display or get hands-free help with your Google Assistant. So you can focus on the road.",
+    "Keywords": "No keywords found",
+    "URL": "https://www.android.com/auto/?utm_source=aboutgoogle&utm_medium=owned&utm_campaign=betoces"
+}
+{
+    "Title": "      Grow with Google - Training to Grow Your Business & Career    ",
+    "Description": "Explore training and tools to grow your business and online presence and learn digital skills to grow your career and qualify for in-demand jobs.",
+    "Keywords": "No keywords found",
+    "URL": "https://grow.google/?utm_source=gDigital&utm_medium=empro-aboutsite&utm_campaign=aboutpage&utm_content=aboutgoogle"
+}
